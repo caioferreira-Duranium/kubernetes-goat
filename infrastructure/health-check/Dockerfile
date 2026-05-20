@@ -1,4 +1,4 @@
-FROM golang:latest
+FROM golang:1.26.3
 LABEL MAINTAINER="Madhu Akula" INFO="Kubernetes Goat"
 
 WORKDIR /
